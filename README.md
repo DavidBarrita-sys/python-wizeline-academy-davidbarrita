@@ -5,8 +5,9 @@ Install numpy:
     |pip install numpy|
 
 By: David Barrita
+Email: jose.barrita@elektra.com.mx
 
-Requirements
+Requirements:
 
 1. El programa debe contener un Menú de Selección que permita escoger  
 las siguientes operaciones: 
