@@ -1,11 +1,8 @@
 import print_option as printer
-
-
-# import util as util
+import util as util
 
 
 def main():
-    """
     ctrl_while = True
     while ctrl_while:
         util.home()
@@ -19,7 +16,6 @@ def main():
             option_out = util.get_option_out()
         if option_out == "12":
             ctrl_while = False
-    """
 
 
 main()
